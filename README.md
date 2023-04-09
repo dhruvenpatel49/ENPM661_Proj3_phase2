@@ -3,7 +3,7 @@ Planning Project - A* algorithm on turtlebot
 
 Team mates - Kaustubh Bhatt & Dhruven Patel
 
-Github link: 
+Github link: https://github.com/dhruvenpatel49/ENPM661_Proj3_phase2.git
 ------------------------------------------------------------------------------------------------------------------------------------------
 Libraries Used are mentioned below
 
@@ -57,12 +57,12 @@ Enter High RPM: 9
 Enter starting X co-ordinate: 50
 Enter starting Y co-ordinate: 100
 Enter Orientation of the robot at start node: 0
-Enter goal X co-ordinates: 500
-Enter goal Y co-ordinates: 40
+Enter goal X co-ordinates: 400
+Enter goal Y co-ordinates: 25
 
 Link to the video result for test case 1 is : https://drive.google.com/file/d/1kbQ_sMC8OusOAWHpwqbVfmNADwfSobaC/view?usp=share_link
 
-Link to the video result for test case 2 is : 
+Link to the video result for test case 2 is : https://drive.google.com/file/d/1CmNnqs-0UKg_tclKM9T6stQi4fiHCj_T/view?usp=share_link
 
-
+Link to the part 1 test case: https://drive.google.com/file/d/1xRW3ODQ0w2HCTlabJtrkY0yGznjJ-j60/view?usp=drive_web
 
