@@ -21,13 +21,13 @@ There are 3 files to this package
 2) Launch the file "turtlebot3_world.launch which exists in turtlebot3_gazebo package.
 3) The world file provided, named "map.world", which should be in the worlds folder in turtlebot3_gazebo.
 
-Open two terminals and in the first terminal run the below code
+Open two terminals and in the first terminal run the below code: -
 
   cd ~/catkin_ws && catkin_make
 
   roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
-In the second terminal run the below code
+In the second terminal run the below code:-
 
 
 rosrun turtlebot3_gazebo turtlebot_controller.py
