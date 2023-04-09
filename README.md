@@ -25,13 +25,11 @@ Open two terminals and in the first terminal run the below code
 
 cd ~/catkin_ws && catkin_make
 
-source ~/.bashrc
 
 roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
 In the second terminal run the below code
 
-source ~/.bashrc
 
 rosrun turtlebot3_gazebo turtlebot_controller.py
 
