@@ -23,10 +23,9 @@ There are 3 files to this package
 
 Open two terminals and in the first terminal run the below code
 
-cd ~/catkin_ws && catkin_make
+  cd ~/catkin_ws && catkin_make
 
-
-roslaunch turtlebot3_gazebo turtlebot3_world.launch
+  roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
 In the second terminal run the below code
 
